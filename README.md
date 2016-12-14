@@ -1,5 +1,11 @@
 # Alex_Author
 
-Draft
+Final draft of Author / Researchers website 
+Using
+Bootstrap
+Fonts Awesome
+google Fonts
+JS
 
-on going site build for Local Author / Researcher and Poet 
+live: www.alexlangstone.com
+
